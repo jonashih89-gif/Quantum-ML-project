@@ -1,1 +1,1 @@
-# Quantum-machine-learning-project
+# Quantum-machine-learning-project in QS&T course
